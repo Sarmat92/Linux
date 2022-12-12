@@ -1,4 +1,4 @@
-
+#!/bin/bash
 if [ $1 = 0 ]; then
     echo "Not a quadratic equation.";
     exit 0;
